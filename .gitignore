@@ -62,6 +62,3 @@ typings/
 
 # truffle build files
 build
-
-# Checkin Openzippelin
-!node_modules/openzeppelin-solidity/
