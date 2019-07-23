@@ -62,3 +62,7 @@ typings/
 
 # truffle build files
 build
+
+#Secret Mnemonic and Infura project id
+.infura-project-id
+.secret-Mnemonic
